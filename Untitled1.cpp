@@ -35,3 +35,11 @@ class sepatu {
 	
 
 	}
+	void sepatu::jenissepatu(string sepatu){
+	cout <<"\n"<<"merk "<<sepatu<<endl;
+}
+	
+void sepatu::ukuransepatu(string ukuran){
+	cout <<"\n"<<"ukuran "<<ukuran<<endl;
+
+}
